@@ -26,7 +26,7 @@ SECRET_KEY = 'bn94v!#y#6z0hc4i%o3!excom-2!tztdap&j53mcei#m@c#g75'
 DEBUG = True
 
 ALLOWED_HOSTS = [
- "https://deployingdjango.herokuapp.com/", "localhost", "127.0.0.1"
+ "deployingdjango.herokuapp.com", "localhost", "127.0.0.1"
 ]
 
 
